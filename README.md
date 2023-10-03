@@ -1,3 +1,5 @@
+UPDATE: I just realized this isn't necessary. VSCode can run the NPM script (e.g. `npm run dev`) through the Run and Debug view. It automatically attaches the debugger.
+
 This repository provides VSCode configuration files for local development of
 nextstrain.org.
 
