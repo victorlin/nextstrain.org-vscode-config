@@ -5,4 +5,4 @@ Commands to add the configuration files:
 
     git remote add vscode-config https://github.com/victorlin/nextstrain.org-vscode-config
     git fetch vscode-config
-    git checkout vscode-config .vscode/
+    git checkout vscode-config/main .vscode/
